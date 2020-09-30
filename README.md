@@ -40,10 +40,10 @@ The dataset is comprised of popular political meme text data which are extracted
 # Instructions to download required dependencies:
 - After installing anaconda navigator , open the navigator and install jupyter notebook or jupyter lab 
 - once jupyter notebook is installed , open jupyter notebook
-#### to download nltk dependency 
+#### To download nltk dependency 
 - Use : pip install nltk
 - And use : nltk.download('punkt'),  nltk.download('stopwords'),  nltk.download('wordnet') to download the following packages.
-##### using pip install to install specific dependency ( module )
+##### Using pip install to install specific dependency ( module )
 - Pip install is the genreal command to download any python dependencies
 - Example (pip install sklearn) 
 - Installing latest anaconda navigator will install all the python modules which essential for data science.
@@ -57,7 +57,7 @@ The dataset is comprised of popular political meme text data which are extracted
  5) find the downloaded file project.ipynb file in jupyter notebook or jupyter lab file browser and open it
  6) Since Jupyter Notebook is an open-sourced web-based application which allows you to create and share documents containing live code, equations, visualisations, and narrative text. In simple words the result of the code can be viewed in IDE itself instead using seperate terminal to view the result like in java or c or c++
  7) Use the following command to execute a block in jupyter notebook
-    # shift+enter --> to run a cell or execute the code block 
+    **shift+enter --> to run a cell or execute the code block** 
  8) While reading the dataset using pandas.read_csv() , change the path to the user's system path (where teh dataset file is located).
  9) thats all done!!
  
