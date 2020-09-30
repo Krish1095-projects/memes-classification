@@ -40,10 +40,10 @@ The dataset is comprised of popular political meme text data which are extracted
 # Instructions to download required dependencies:
 - After installing anaconda navigator , open the navigator and install jupyter notebook or jupyter lab 
 - once jupyter notebook is installed , open jupyter notebook
-# to download nltk dependency 
+#### to download nltk dependency 
 - Use : pip install nltk
 - And use : nltk.download('punkt'),  nltk.download('stopwords'),  nltk.download('wordnet') to download the following packages.
-# using pip install to install specific dependency ( module )
+##### using pip install to install specific dependency ( module )
 - Pip install is the genreal command to download any python dependencies
 - Example (pip install sklearn) 
 - Installing latest anaconda navigator will install all the python modules which essential for data science.
